@@ -56,6 +56,27 @@ Kali Linux | Network Security | Web Exploitation
 
 ---
 
+## 🚨 FEATURED PROJECTS
+
+```bash
+> AI Cyber Defense System → https://github.com/gunjansoni26/AI-Cyber-Defense
+> Network Scanner Tool → https://github.com/gunjansoni26/network-scanner
+> Phishing Detection Model → https://github.com/gunjansoni26/phishing-detector
+```
+
+---
+
+## 🧪 LAB EXPERIENCE
+
+```bash
+> Practicing labs on TryHackMe
+> Network scanning & enumeration
+> Basic exploitation techniques
+> Building cybersecurity scripts
+```
+
+---
+
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
@@ -73,13 +94,15 @@ Kali Linux | Network Security | Web Exploitation
 
 ---
 
-## 🌐 NETWORK LINK
+## 🌐 LIVE PORTFOLIO
 
 ```bash
-> connect --target portfolio
-> https://sonifolio.netlify.app
-> status: SECURE CONNECTION ESTABLISHED 🟢
+> ACCESSING EXTERNAL SYSTEM...
+> TARGET: sonifolio.netlify.app
+> STATUS: ONLINE 🟢
 ```
+
+🔗 https://sonifolio.netlify.app
 
 ---
 
