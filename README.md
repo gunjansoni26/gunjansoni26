@@ -1,64 +1,71 @@
-# 👾 Gunjan Soni
-
+<!-- 🎬 CINEMATIC HACKER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Ethical+Hacker;Bug+Bounty+Learner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=SYSTEM%20OVERRIDE&fontColor=00FF00&fontSize=45&animation=fadeIn" />
+</p>
+
+<!-- 🟢 MATRIX RAIN GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8kQzE8cB6E8/giphy.gif" width="700"/>
+</p>
+
+<h1 align="center">👾 Gunjan Soni</h1>
+
+<!-- ⚡ GLITCH / BINARY TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=01001000+01000001+01000011+01001011+01000101+01000100;ACCESS+GRANTED;INITIALIZING+CYBER+SYSTEM;ETHICAL+HACKER;DEFEND+%2F+ATTACK+%2F+REPEAT" />
 </p>
 
 ---
 
-## 🖥️ WHOAMI
+## 🖥️ TERMINAL ACCESS
 
 ```bash
-> gunjan_soni
-> Cybersecurity Enthusiast
-> Kali Linux User
-> Focus: Offensive & Defensive Security
+> whoami
+gunjan_soni
+
+> role
+Cybersecurity Enthusiast
+
+> system
+Kali Linux | Network Security | Web Exploitation
 ```
 
 ---
 
-## 🧠 SKILLS.EXE
+## 🧠 SKILL GRID
 
 ```bash
-[✔] Networking
-[✔] OSINT
-[✔] Vulnerability Assessment
-[✔] Web Security
-[✔] Linux (Kali)
+[✔] Networking        ██████████
+[✔] OSINT             █████████░
+[✔] Web Security      ████████░░
+[✔] Exploitation      ███████░░░
+[✔] Linux (Kali)      ██████████
 ```
 
 ---
 
-## ⚔️ TOOLS
+## ⚔️ TOOLCHAIN
 
 ```bash
-> nmap
-> wireshark
-> metasploit
-> burp suite
-> john the ripper
+> nmap --deep-scan target
+> wireshark --capture packets
+> metasploit --run exploit
+> burpsuite --intercept request
+> john --crack hashes
 ```
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark&bg_color=000000" />
 </p>
 
 ---
 
-## 🔥 STREAK
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjansoni26&theme=chartreuse-dark" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 EXECUTION TRACE
 
 <p align="center">
   <img src="https://github.com/gunjansoni26/gunjansoni26/blob/output/github-contribution-grid-snake.svg" />
@@ -66,31 +73,30 @@
 
 ---
 
-## 🌐 PORTFOLIO
+## 🌐 NETWORK LINK
 
 ```bash
-> Establishing secure connection...
+> connect --target portfolio
 > https://sonifolio.netlify.app
-> Status: LIVE 🟢
+> status: SECURE CONNECTION ESTABLISHED 🟢
 ```
 
 ---
 
-## 🚀 CURRENT MISSION
+## 🔷 SYSTEM MODULES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css&theme=dark" />
+</p>
+
+---
+
+## 🧬 CORE PROTOCOL
 
 ```bash
-> Building Cybersecurity Projects
-> Learning Exploitation
-> Strengthening Red Team Skills
+> "Break systems. Understand systems. Secure systems."
+> "Think like attacker. Build like defender."
 ```
-
----
-
-## 🧾 BADGES
-
-![Kali](https://img.shields.io/badge/Kali-Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Cyber](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackthebox)
 
 ---
 
@@ -98,6 +104,6 @@
 
 ```bash
 STATUS: ONLINE 🟢
-ACCESS LEVEL: USER → ADMIN (Loading...)
+THREAT LEVEL: MONITORING
+MODE: EVOLVING
 ```
-
