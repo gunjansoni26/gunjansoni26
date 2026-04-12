@@ -1,67 +1,64 @@
-<!-- 🟢 MATRIX / CYBER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=180&section=header&text=ACCESS%20GRANTED&fontColor=00FF00&fontSize=40&animation=fadeIn" />
-</p>
+# 👾 Gunjan Soni
 
-<!-- 👾 NAME -->
-<h1 align="center">👾 Gunjan Soni</h1>
-
-<!-- 🟢 MATRIX STYLE TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=01010100+01001000+01000101+00100000+01001000+01000001+01000011+01001011+01000101+01010010;Cybersecurity+Enthusiast;Ethical+Hacker;System+Compromised..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Ethical+Hacker;Bug+Bounty+Learner" />
 </p>
 
 ---
 
-## 🖥️ TERMINAL
+## 🖥️ WHOAMI
 
 ```bash
-> whoami
-gunjan_soni
-
-> access_level
-Cybersecurity Enthusiast | Kali Linux User
-
-> mission
-Offensive + Defensive Security
+> gunjan_soni
+> Cybersecurity Enthusiast
+> Kali Linux User
+> Focus: Offensive & Defensive Security
 ```
 
 ---
 
-## 🧠 SKILL MATRIX
+## 🧠 SKILLS.EXE
 
 ```bash
-[101] Networking
-[110] OSINT
-[111] Vulnerability Assessment
-[101] Web Security
-[111] Linux (Kali)
+[✔] Networking
+[✔] OSINT
+[✔] Vulnerability Assessment
+[✔] Web Security
+[✔] Linux (Kali)
 ```
 
 ---
 
-## ⚔️ TOOLKIT
+## ⚔️ TOOLS
 
 ```bash
-> nmap --scan
-> wireshark --analyze
-> metasploit --exploit
-> burpsuite --intercept
-> john --crack
+> nmap
+> wireshark
+> metasploit
+> burp suite
+> john the ripper
 ```
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
 
-## 🐍 EXECUTION TRACE
+## 🔥 STREAK
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjansoni26&theme=chartreuse-dark" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://github.com/gunjansoni26/gunjansoni26/blob/output/github-contribution-grid-snake.svg" />
@@ -69,37 +66,38 @@ Offensive + Defensive Security
 
 ---
 
-## 🌐 NETWORK ACCESS
+## 🌐 PORTFOLIO
 
 ```bash
-> connect --target portfolio
+> Establishing secure connection...
 > https://sonifolio.netlify.app
-> status: CONNECTED 🟢
+> Status: LIVE 🟢
 ```
 
 ---
 
-## 🔷 GEOMETRIC CORE
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css&theme=dark" />
-</p>
-
----
-
-## 🧬 CORE DIRECTIVE
+## 🚀 CURRENT MISSION
 
 ```bash
-> "Break. Understand. Secure."
-> "Think like attacker. Build like defender."
+> Building Cybersecurity Projects
+> Learning Exploitation
+> Strengthening Red Team Skills
 ```
+
+---
+
+## 🧾 BADGES
+
+![Kali](https://img.shields.io/badge/Kali-Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Cyber](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackthebox)
 
 ---
 
 ## ⚡ SYSTEM STATUS
 
 ```bash
-STATUS: ACTIVE 🟢
-THREAT LEVEL: LOW
-MODE: LEARNING → EVOLVING
+STATUS: ONLINE 🟢
+ACCESS LEVEL: USER → ADMIN (Loading...)
 ```
+replace in this
