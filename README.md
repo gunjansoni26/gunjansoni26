@@ -80,8 +80,8 @@ Kali Linux | Network Security | Web Exploitation
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark&bg_color=000000&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark&bg_color=000000&cache_seconds=1800" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Kali Linux | Network Security | Web Exploitation
 ## 🐍 EXECUTION TRACE
 
 <p align="center">
-  <img src="https://github.com/gunjansoni26/gunjansoni26/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gunjansoni26/gunjansoni26/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
