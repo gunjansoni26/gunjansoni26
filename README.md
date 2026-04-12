@@ -1,5 +1,16 @@
+<!-- 🔥 HACKER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Gunjan%20Soni&fontColor=00FF00&fontSize=40&animation=fadeIn" />
+</p>
+
 # 👾 Gunjan Soni
 
+<!-- 👁️ Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunjansoni26&label=Profile%20Views&color=00ff00&style=flat" />
+</p>
+
+<!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Ethical+Hacker;Bug+Bounty+Learner" />
 </p>
@@ -76,6 +87,17 @@
 
 ---
 
+## 🚨 FEATURED PROJECTS
+
+```bash
+> AI Cyber Defense System
+> Network Scanner Tool
+> Phishing Detection Model
+> Malware Analysis Lab
+```
+
+---
+
 ## 🚀 CURRENT MISSION
 
 ```bash
@@ -86,11 +108,22 @@
 
 ---
 
-## 🧾 BADGES
+## 🧾 CYBER STACK
 
 ![Kali](https://img.shields.io/badge/Kali-Linux-black?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Cyber](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackthebox)
+![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cisco)
+
+---
+
+## 🧬 SYSTEM CORE
+
+```bash
+> "First, solve the problem. Then, write the code."
+> "Hack the system. Secure the future."
+```
 
 ---
 
