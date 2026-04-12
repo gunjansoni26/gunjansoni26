@@ -1,75 +1,67 @@
-<!-- 🔥 HACKER BANNER -->
+<!-- 🟢 MATRIX / CYBER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Gunjan%20Soni&fontColor=00FF00&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=180&section=header&text=ACCESS%20GRANTED&fontColor=00FF00&fontSize=40&animation=fadeIn" />
 </p>
 
-# 👾 Gunjan Soni
+<!-- 👾 NAME -->
+<h1 align="center">👾 Gunjan Soni</h1>
 
-<!-- 👁️ Visitor Counter -->
+<!-- 🟢 MATRIX STYLE TYPING -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunjansoni26&label=Profile%20Views&color=00ff00&style=flat" />
-</p>
-
-<!-- ⚡ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+✔;Cybersecurity+Enthusiast;Ethical+Hacker;Bug+Bounty+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=01010100+01001000+01000101+00100000+01001000+01000001+01000011+01001011+01000101+01010010;Cybersecurity+Enthusiast;Ethical+Hacker;System+Compromised..." />
 </p>
 
 ---
 
-## 🖥️ WHOAMI
+## 🖥️ TERMINAL
 
 ```bash
-> gunjan_soni
-> Cybersecurity Enthusiast
-> Kali Linux User
-> Focus: Offensive & Defensive Security
+> whoami
+gunjan_soni
+
+> access_level
+Cybersecurity Enthusiast | Kali Linux User
+
+> mission
+Offensive + Defensive Security
 ```
 
 ---
 
-## 🧠 SKILLS.EXE
+## 🧠 SKILL MATRIX
 
 ```bash
-[✔] Networking
-[✔] OSINT
-[✔] Vulnerability Assessment
-[✔] Web Security
-[✔] Linux (Kali)
+[101] Networking
+[110] OSINT
+[111] Vulnerability Assessment
+[101] Web Security
+[111] Linux (Kali)
 ```
 
 ---
 
-## ⚔️ TOOLS
+## ⚔️ TOOLKIT
 
 ```bash
-> nmap
-> wireshark
-> metasploit
-> burp suite
-> john the ripper
+> nmap --scan
+> wireshark --analyze
+> metasploit --exploit
+> burpsuite --intercept
+> john --crack
 ```
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjansoni26&show_icons=true&theme=chartreuse-dark&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansoni26&layout=compact&theme=chartreuse-dark&bg_color=000000" />
 </p>
 
 ---
 
-## 🔥 STREAK
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjansoni26&theme=chartreuse-dark" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 EXECUTION TRACE
 
 <p align="center">
   <img src="https://github.com/gunjansoni26/gunjansoni26/blob/output/github-contribution-grid-snake.svg" />
@@ -77,52 +69,29 @@
 
 ---
 
-## 🌐 PORTFOLIO
+## 🌐 NETWORK ACCESS
 
 ```bash
-> Establishing secure connection...
+> connect --target portfolio
 > https://sonifolio.netlify.app
-> Status: LIVE 🟢
+> status: CONNECTED 🟢
 ```
 
 ---
 
-## 🚨 FEATURED PROJECTS
+## 🔷 GEOMETRIC CORE
 
-```bash
-> AI Cyber Defense System
-> Network Scanner Tool
-> Phishing Detection Model
-> Malware Analysis Lab
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css&theme=dark" />
+</p>
 
 ---
 
-## 🚀 CURRENT MISSION
+## 🧬 CORE DIRECTIVE
 
 ```bash
-> Building Cybersecurity Projects
-> Learning Exploitation
-> Strengthening Red Team Skills
-```
-
----
-
-## 🧾 CYBER STACK
-
-![Kali](https://img.shields.io/badge/Kali-Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Cyber](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackthebox)
-![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cisco)
-
----
-
-## 🧬 SYSTEM CORE
-
-```bash
-> "First, solve the problem. Then, write the code."
-> "Hack the system. Secure the future."
+> "Break. Understand. Secure."
+> "Think like attacker. Build like defender."
 ```
 
 ---
@@ -130,6 +99,7 @@
 ## ⚡ SYSTEM STATUS
 
 ```bash
-STATUS: ONLINE 🟢
-ACCESS LEVEL: USER → ADMIN (Loading...)
+STATUS: ACTIVE 🟢
+THREAT LEVEL: LOW
+MODE: LEARNING → EVOLVING
 ```
