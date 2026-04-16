@@ -60,8 +60,8 @@ Kali Linux | Network Security | Web Exploitation
 
 ```bash
 > AI Cyber Defense System → https://github.com/gunjansoni26/AI-Cyber-Defense
-> Network Scanner Tool → https://github.com/gunjansoni26/network-scanner
-> Phishing Detection Model → https://github.com/gunjansoni26/phishing-detector
+> Mini SIEM → https://github.com/gunjansoni26/Mini-SIEM-AI
+> PhishShield AI → https://github.com/gunjansoni26/PhishShield-AI
 ```
 
 ---
